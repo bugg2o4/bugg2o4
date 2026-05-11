@@ -23,7 +23,7 @@
 </div>
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+<h3 align="center">I like to make things with letters and numbers</h3>
   <ul>
     <li>☆ 
     <li>☆ 
