@@ -19,11 +19,12 @@
 </pre>
 </div>
 </div>
-<hr>
+<p align="center">Undergradute Computer Science Major interested in Computer Graphics, Graphics programming, and Technical Art!</p>
 <h3 align="center">TECH DECK</h3>
   <ul>
     <li>☆ 
     <li>☆ 
     <li>☆
-  </ul>     
+  </ul> 
+  <h3 align="center">FRAMEWORKS & TOOLS</h3>
 
