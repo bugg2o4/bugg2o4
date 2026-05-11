@@ -8,7 +8,7 @@
  jTHEE!  .db.  Yb. '   ' .dY  .db.  8THEE!                                           jTHEE!  .db.  Yb. '   ' .dY  .db.  8THEE! 
    `888  Y88Y    `b ( ) d'    Y88Y  888'                                               `888  Y88Y    `b ( ) d'    Y88Y  888' 
     8MYb  '"        ,',        "'  dMY8                                                 8MYb  '"        ,',        "'  dMY8  
-   j8prECIOUSgf"'   ':'   `"?g8prECIOUSk                                               j8prECIOUSgf"'   ':'   `"?g8prECIOUSk   
+   j8prECIOUSgf"'   ':'   `"?g8prECIOUSk                                               j8prECIOUSgf"'   ':'   `"?g8prECIOUSk           
      'Y'   .8'     d' 'b     '8.   'Y'                                                   'Y'   .8'     d' 'b     '8.   'Y'  
        .8' db  d'; ;`b  db '8.   !                  _    _      _ _       _                !  db  d'; ;`b  db '8.   .8'     
          d88  `'  8 ; ; 8  `'  88b                 | |  | |    | | |     | |                d88  `'  8 ; ; 8  `'  88b  
@@ -21,9 +21,8 @@
 </pre>
 </div>
 </div>
-<!-- ABOUT YOU -->
 <hr>
-<h3 align="center">I like to make things with letters and numbers</h3>
+<h3 align="center">(っ◔◡◔)っ𝙸 𝙻𝙸𝙺𝙴 𝚃𝙾 𝙼𝙰𝙺𝙴 𝚃𝙷𝙸𝙽𝙶𝚂 𝚆𝙸𝚃𝙷 𝙻𝙴𝚃𝚃𝙴𝚁𝚂 𝙰𝙽𝙳 𝙽𝚄𝙼𝙱𝙴𝚁𝚂</h3>
   <ul>
     <li>☆ 
     <li>☆ 
